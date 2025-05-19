@@ -1,0 +1,3 @@
+2025-05-19 15:24:03, Defect detected, Confidence: 0.87
+2025-05-19 15:24:07, Defect detected, Confidence: 0.91
+2025-05-19 15:24:12, Defect detected, Confidence: 0.76
