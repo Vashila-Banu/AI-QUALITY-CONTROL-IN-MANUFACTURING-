@@ -57,7 +57,7 @@ print(f"Defect: {defect}, Confidence: {confidence:.2f}")
 
 
 ## Console Output Image
-![console output](output.png)
+![console output](Output.png)
 
 
 ## 📌 Notes
